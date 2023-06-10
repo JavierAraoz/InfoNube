@@ -3,8 +3,15 @@ header{
     background-color: black;
     text-align: center;
 }
-article{
-    color: aquamarine;
-    background-color: darkslategray;
-    text-align: right;
+.contenedor{
+    width: 100%;
+    display:flex;
+}
+.partes{
+    width: 50%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding-left: 50px;
 }
