@@ -3,3 +3,21 @@ header{
     background-color: black;
     text-align: center;
 }
+.piePaginaTotal{
+    width: 100%;
+    display: flex;
+}
+.partes{
+    color: black;
+    font-size: small;
+    text-align: center;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+    height: 210px;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
+    display: flex;
+}
